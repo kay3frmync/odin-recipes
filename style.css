@@ -1,0 +1,14 @@
+.title {
+    background-color: black;
+    color: orange;
+    font-size: 48px;
+    text-align: center;
+    font-family: Geneva, Tahoma, Arial
+}
+
+.center {
+    font-size: 128px;
+    text-align: center;
+    margin-top: 50vh;
+    font-family: 'Courier New', Courier, monospace;
+}
